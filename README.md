@@ -12,8 +12,6 @@
 
 ##### Select the bones and check the bones direction.
 
-I think this is really useful , so just rip from it.
-
 Make sure to use the unity toolbar to add renderer component.(Bone Renderer->Setup)
 
 
