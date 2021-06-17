@@ -1,0 +1,13 @@
+{
+  "name": "unity.bonevisualizer",
+  "displayName": "UnityBoneVisualizer",
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "unityRelease": "1f1",
+  "description": "BoneVisualizer",
+  "keywords": [
+    "Bone","Visualizer"
+  ],
+  "type": "library",
+  "hideInEditor": false
+}
