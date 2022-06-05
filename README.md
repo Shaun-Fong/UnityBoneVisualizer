@@ -16,6 +16,28 @@
 
 ![Image2](https://i.ibb.co/jJBkq24/image2.png)
 
+## Install 安装
+
+### 1.Via Unitypackage 通过unitypackage安装
+
+Go [this](https://github.com/Shaun-Fong/UnityBoneVisualizer/releases) link download "**.unitypackage" and import to unity.
+
+到该[链接](https://github.com/Shaun-Fong/UnityBoneVisualizer/releases)下载“**.unitypackage”并导入unity即可。
+
+### 2.Via Unity Package Manager 通过Unity Package Manager安装（推荐）
+
+Requires a version of unity that supports path query parameter for git packages（Unity >= 2019.3.4f1）
+
+需要Unity版本大于2019.3.4f1
+
+![images](https://user-images.githubusercontent.com/46207/79450714-3aadd100-8020-11ea-8aae-b8d87fc4d7be.png)
+
+Click 'Add package from git URL' and add `https://github.com/Shaun-Fong/UnityBoneVisualizer.git?path=UnityBoneVisualizer` then Click 'Add' button.
+
+点击“Add package from git URL” 并填入`https://github.com/Shaun-Fong/UnityBoneVisualizer.git?path=UnityBoneVisualizer`，然后等待编译完成即可使用。
+
+
+
 ## Usage 使用
 
 Make sure to use the unity toolbar to add renderer component.(Bone Renderer->Setup)
