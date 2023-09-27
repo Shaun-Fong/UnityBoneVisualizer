@@ -1,8 +1,9 @@
 # UnityBoneVisualizer
 
- Visualize your character's bone.
+ Visualize your character's bone.骨骼可视化！
  
- 骨骼可视化！
+ **(Editor Only)**
+ **(仅限编辑器内)**
  
 **This is part of Animation Rigging which you can find in Package manager->Animation Rigging**
 
