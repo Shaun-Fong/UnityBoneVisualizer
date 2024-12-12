@@ -1,8 +1,8 @@
 {
-  "name": "com.unity.bonevisualizer",
+  "name": "com.shaunfong.bonevisualizer",
   "displayName": "UnityBoneVisualizer",
   "version": "1.0.0",
-  "unity": "2018.1",
+  "unity": "2019.3",
   "unityRelease": "1f1",
   "description": "BoneVisualizer",
   "keywords": [
